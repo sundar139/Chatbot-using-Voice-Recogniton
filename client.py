@@ -50,7 +50,7 @@ def voiceMessage(event = None):
 ####################################### Creating The GUI and it's layout ##################################
 top = tkinter.Tk()
 top.title("Chatbot")
-top.geometry("800x500+0+0")
+top.geometry("630x500+0+0")
 top.config(bg="#154360")
 
 frame = tkinter.Frame(top)
